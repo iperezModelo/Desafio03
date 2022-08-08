@@ -1,0 +1,38 @@
+[
+
+
+{"titulo":"Borrador",
+  "precio":"10MXN",
+  "thumbnail":"wwww.coderhouse.com",
+  "id":1},
+
+
+
+
+
+{"titulo":"Boligrafo",
+"precio":"20MXN",
+"thumbnail":"wwww.coderhouse.com",
+"id":2},
+
+
+
+{"titulo":"Regla",
+"precio":"10MXN",
+"thumbnail":"wwww.coderhouse.com",
+"id":3},
+
+
+{"titulo":"Libreta",
+"precio":"50MXN",
+"thumbnail":"wwww.coderhouse.com",
+"id":4},
+
+
+{"titulo":"Compás",
+"precio":"15MXN",
+"thumbnail":"wwww.coderhouse.com",
+"id":5}
+
+
+]
